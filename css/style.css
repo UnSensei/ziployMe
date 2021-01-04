@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap");
 
 :root {
-  --primary-color: #047aed;
-  --secondary-color: #1c3fa8;
-  --dark-color: #002240;
+  --primary-color: #6a7b83;
+  --secondary-color: #0d1239;
+  --dark-color: #6a7b83;
   --light-color: #f4f4f4;
   --success-color: #5cb85c;
   --error-color: #d9534f;
