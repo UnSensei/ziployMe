@@ -1,4 +1,4 @@
-Have a look at this site @ https://https://ziployme.netlify.app/
+Have a look at this site @ https://ziployme.netlify.app/
 
 HTML and CSS.
 
